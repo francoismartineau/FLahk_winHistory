@@ -1,10 +1,8 @@
-Author: François Martineau
-
-Date: January 2022
-
-This script is a small portion of FLahk https://github.com/francoismartineau/FLahk
+This script is a small portion of [FLahk](https://github.com/francoismartineau/FLahk)
 
 ## Usage
+
+---------------------------------
 * Install [AHK](https://www.autohotkey.com/)
 
 * Make sure all FL windows are [detached](https://i.imgur.com/i2Yd9KP.png).
@@ -25,3 +23,7 @@ Ctrl+Caps:   next main window
 
 Ctrl+Shift+ Tabs / Caps: While Ctrl and Shift are pressed, scroll to activate the desired window.
 
+---------------------------------
+François Martineau
+
+January 2022

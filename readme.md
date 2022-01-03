@@ -10,7 +10,7 @@ Windows need to be activated once in order to be acknowledged by the script.
 
 Stopping the script can be done like [this](https://i.imgur.com/tMdeV8Q.jpg)
 
----------------------------------
+## Hotkeys
 Tab: previous plugin
 
 Ctrl+Tab:  next plugin

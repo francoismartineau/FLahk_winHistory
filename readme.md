@@ -1,3 +1,6 @@
+Author: François Martineau
+Date: January 2022
+This script is a small portion of FLahk https://github.com/francoismartineau/FLahk
 ## Usage
 * Install [AHK](https://www.autohotkey.com/)
 
